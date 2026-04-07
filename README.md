@@ -1,32 +1,26 @@
 # Sales Data Analysis using Excel
 
 ## Objective
-The goal of this project is to analyze sales data and understand category-wise revenue distribution using basic Excel techniques.
+The aim of this project is to analyze sales data and understand category-wise and overall performance using Excel.
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Charts (Column Chart)
-
-## Dataset
-The dataset consists of sales data categorized into:
-- Technology
-- Furniture
-- Office Supplies
+- Basic Charts
 
 ## Key Steps
-- Created a structured dataset in Excel
-- Converted data into a table format
-- Built a Pivot Table to calculate total sales by category
-- Created a column chart to visualize category-wise performance
+- Organized raw sales data into a structured format
+- Created Pivot Tables to summarize category-wise sales
+- Analyzed performance across different categories
+- Used basic charts for visualization
 
 ## Key Insights
 - Technology category generated the highest sales
 - Furniture showed moderate performance
-- Office Supplies contributed the least to total sales
+- Office Supplies contributed the least
 
-## File
-- sales_data_analysis.xlsx
+## Project File
+- Sales_Data_Analysis.xlsx
 
 ## Learning Outcome
-This project helped me understand how to use Excel for basic data analysis, including pivot tables and visualization of structured data.
+This project helped me understand how to work with structured data in Excel, create Pivot Tables, and extract basic business insights.
