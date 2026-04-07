@@ -1,3 +1,5 @@
+This project demonstrates basic data analysis using Excel, focusing on summarizing and visualizing structured sales data.
+
 # Sales Data Analysis using Excel
 
 ## Objective
